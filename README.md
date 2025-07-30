@@ -194,4 +194,4 @@ This test suite:
 
 ## Contact
 
-For questions or contributions, please contact **María Paz Oliva** ( michaelawanah1@gmail.com).
+For questions or contributions, please contact **Michael Awanah** ( michaelawanah1@gmail.com).
